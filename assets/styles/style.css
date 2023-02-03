@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+}
+.barra {
+    padding: 12px;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    height: 200px;
+    background-color: deeppink;
+}
+.img1 {
+    height: 150px;
+    width: 150px;
+    border: groove 6px cyan;
+    border-radius: 50%;
+    box-shadow: -6px -10px 8px black;
+}
+span {
+    color: gold;
+    padding: 10px;
+}
+.div2 {
+    color: hotpink;
+    padding: 150px;
+    font-size: 150px;
+    font-weight: bold;
+}
+.div3 {
+    color: fuchsia;
+    padding: 150px;
+    font-size: 150px;
+    font-weight: bold;
+}
